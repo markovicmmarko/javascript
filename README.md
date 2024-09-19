@@ -1,1 +1,1 @@
-# javascript
+/guessMyNym >> I've written only the JavaScript file in this project, because my goal was to implement the game logic, as seen in online course from where I downloaded those HTML & CSS files. This code implements a simple number guessing game using JavaScript. The player has 20 chances to guess a randomly generated number between 0 and 20. Feedback is given if the guess is too high or low. Upon correct guess, the background color changes and the high score is updated. The game can be reset using the "Play Again" button.
